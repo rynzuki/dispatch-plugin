@@ -1,0 +1,10 @@
+{
+  "name": "dispatch",
+  "version": "0.1.0",
+  "description": "Plan an implementation as units, have cheaper models build them in parallel git worktrees, escalate failures one tier with the failure as context, and merge each wave behind its check.",
+  "author": {
+    "name": "lewo media"
+  },
+  "repository": "https://github.com/rynzuki/dispatch-plugin",
+  "keywords":["workflow", "worktrees", "delegation", "implementation"]
+}

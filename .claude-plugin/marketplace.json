@@ -1,0 +1,15 @@
+{
+  "name": "lewo-dispatch",
+  "description": "Team marketplace for the dispatch plugin",
+  "owner": {
+    "name": "lewo media"
+  },
+  "plugins": [
+    {
+      "name": "dispatch",
+      "description": "Plan an implementation as units, have cheaper models build them in parallel git worktrees, escalate failures one tier with the failure as context, and merge each wave behind its check.",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}
