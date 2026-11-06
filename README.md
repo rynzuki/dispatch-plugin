@@ -25,12 +25,12 @@ The session model plans the units and reviews the result. Haiku, Sonnet or the s
 
 ```bash
 claude plugin marketplace add rynzuki/dispatch-plugin
-claude plugin install dispatch@lewo-dispatch
+claude plugin install dispatch@rynzuki
 ```
 
 Or inside Claude Code: `/plugin install dispatch --marketplace rynzuki/dispatch-plugin`. Restart Claude Code afterwards.
 
-Update: `claude plugin marketplace update lewo-dispatch && claude plugin update dispatch@lewo-dispatch`.
+Update: `claude plugin marketplace update rynzuki && claude plugin update dispatch@rynzuki`.
 
 To try it for one session without installing, clone the repo and run `claude --plugin-dir ./dispatch-plugin`.
 

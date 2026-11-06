@@ -2,7 +2,7 @@
 
 ## 0.1.0
 
-First team release, extracted from a personal setup.
+First public release.
 
 - Worker agents renamed to `dispatch-mechanical`, `dispatch-standard` and `dispatch-strong`, and shipped with the plugin.
 - Escalation passes the rejection reason and check output to the next attempt; `maxTier` caps how far a unit escalates.

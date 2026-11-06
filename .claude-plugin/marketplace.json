@@ -1,8 +1,8 @@
 {
-  "name": "lewo-dispatch",
-  "description": "Team marketplace for the dispatch plugin",
+  "name": "rynzuki",
+  "description": "Claude Code plugins by rynzuki",
   "owner": {
-    "name": "lewo media"
+    "name": "rynzuki"
   },
   "plugins": [
     {
